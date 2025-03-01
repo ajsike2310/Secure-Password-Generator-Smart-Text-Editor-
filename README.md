@@ -32,7 +32,7 @@
 <ol>
   <li>Ensure Python is installed on your system.</li>
   <li>Install required dependencies: <code>pip install pillow</code></li>
-  <li>Run the script: <code>python script.py</code></li>
+  <li>Run the script: <code>python pass-2.py</code></li>
   <li>Sign up or log in to access the application.</li>
 </ol>
 
